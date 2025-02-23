@@ -6,3 +6,9 @@ Set environment variables for database connectivity. These are used in the compo
 export MYSQL_PASSWORD=<VALUE>
 export MYSQL_ROOT_PASSWORD=<VALUE>
 ```
+
+Start the stack
+
+```shell
+podman compose up -d
+```
