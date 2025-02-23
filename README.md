@@ -1,6 +1,6 @@
 # Podman Drupal
 
-Stack for running a local containerised development instance of Drupal using Podman
+Stack for running a local containerised development instance of Drupal with a MariaDB database and phpmyadmin for database admin.
 
 ## Prerequisites
 
